@@ -207,9 +207,14 @@
         font-size: 1.3em;
         font-weight: bolder;
     }
+    .grid-container2 p {
+        margin-top: 5px;
+        justify-content: center;
+        font-size: 1.2em;
+    }
     .grid-construindo {
         display: block;
-        margin-top: 400px;
+        margin-top: 420px;
         margin-left: auto;
         margin-right: auto;
         justify-content: center;
