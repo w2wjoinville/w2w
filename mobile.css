@@ -67,6 +67,7 @@
         color: white;
         width: 75%;
         font-size: 1.5em;
+        text-wrap: nowrap;
     }
     #p_centro {
         border-left: 1px solid white;
